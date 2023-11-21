@@ -7,7 +7,7 @@ Web Developer
 Sup', Im just a student who got amused by the technology, I aint a Nerd tho :)))
 
 * 🌍  I'm based in Chennai
-* 🧠  I'm learning Express.js and React
+* 🧠  I'm learning next.js and DSA
 * 🤝  I'm open to collaborating on Web Applications
 * ⚡  Im Just 18 btw
 
