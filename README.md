@@ -12,7 +12,7 @@ Sup', Im just a student who got amused by the technology, I aint a Nerd tho :)))
 * ⚡  Im Just 18 btw
 
 <a href="https://www.github.com/Vignesh-vik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Vignesh-vik?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Vignesh-vik?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a
 
 ### Skills
 
