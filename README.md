@@ -12,7 +12,7 @@ Sup', Im just a student who got amused by the technology, I aint a Nerd tho :)))
 * 🌍  I'm based in Chennai
 * 🧠  I'm learning next.js and DSA
 * 🤝  I'm open to collaborating on Web Applications
-* ⚡  Im Just 18 btw
+* ⚡  Im Just 18 btw(not anymore)
 
 <a href="https://www.github.com/Vignesh-vik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vignesh-vik?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a
